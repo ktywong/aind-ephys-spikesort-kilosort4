@@ -6,8 +6,8 @@
     "sorter": {
         "batch_size": 80000,
         "nblocks": 0,
-        "Th_universal": 5,
-        "Th_learned": 4,
+        "Th_universal": 6,
+        "Th_learned": 5,
         "do_CAR": true,
         "invert_sign": false,
         "nt": 51,
